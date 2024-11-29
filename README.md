@@ -1,2 +1,2 @@
-# ImgHost-
-ImgHost 
+# ImgHost
+:mag:我的私人图床
